@@ -1,20 +1,16 @@
-# Welcome!
+---
+description: 包含后端，中台以及探针的restful 接口。
+---
 
-## Welcome to MyAPI
+# 物安盾项目api接口文档
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+## 文档链接
 
-## Want to jump right in?
-
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
-
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
+{% content-ref url="reference/wu-an-dun-zhong-tai-api/" %}
+[wu-an-dun-zhong-tai-api](reference/wu-an-dun-zhong-tai-api/)
 {% endcontent-ref %}
 
-## Want to deep dive?
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
 {% content-ref url="reference/wu-an-dun-zhong-tai-api/" %}
 [wu-an-dun-zhong-tai-api](reference/wu-an-dun-zhong-tai-api/)
